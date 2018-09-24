@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "AwesomeProject",
+    "name": "weather-app",
     "description": "A very interesting project.",
-    "slug": "AwesomeProject",
+    "slug": "weather-app",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": ["ios", "android"],
